@@ -18,5 +18,6 @@ module.exports = {
     'operator-linebreak': 'off',
     'max-len': 'off',
     'object-curly-spacing': 'off',
+    indent: 'off',
   },
 };
